@@ -1,1 +1,3 @@
-Servicio de prueba activo. Visita /error para generar un error controlado.
+Laboratorio DevSecOps - Jairo Huaman.
+Despliegue exitoso mediante Jenkins.
+Aplicacion monitorizada con Prometheus, Grafana y Kibana.
